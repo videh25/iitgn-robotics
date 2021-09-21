@@ -7,7 +7,8 @@ Industry Submission 1
 # Project- Pill Picking Robot
 By Timetooth
 
-Team Members-
+# Team Members
+
 Shardul Kulkarni (18110088)
 
 Prathamesh Vibhute (18110186)
