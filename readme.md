@@ -1,5 +1,5 @@
 Follow the following steps to view the codes working and make any changes for future use:
-
+View the presentation (.pptx) file in google slides or power point presentation to be able to see the animation.
 **Note: In the beginning of every code, commented lines are written about the results of the code. Read Carefully**
 
 1. The **animation.py** contains the code for the given data by the Timetooth industries and the animation is generated where we can clearly see the scrubbing points
