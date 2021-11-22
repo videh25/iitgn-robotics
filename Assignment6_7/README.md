@@ -1,4 +1,4 @@
-#Using Instructions
+# Using Instructions
 1. Download the folder.
 2. Open command prompt/terminal.
 3. Access the folder through cmd/terminal.
